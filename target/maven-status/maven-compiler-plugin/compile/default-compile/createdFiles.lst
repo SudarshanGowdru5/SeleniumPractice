@@ -1,0 +1,7 @@
+ShoppingApp\Pageobject\ProductPage.class
+ShoppingApp\AbstructComponents\AbstructComponents.class
+ShoppingApp\Pageobject\LoginPage.class
+ShoppingApp\Pageobject\ConfirmationPage.class
+ShoppingApp\Pageobject\CartPage.class
+ShoppingApp\Pageobject\PaymentPage.class
+ShoppingApp\Resources\ExternalReportNg.class
